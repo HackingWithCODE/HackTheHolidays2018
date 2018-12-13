@@ -5,7 +5,7 @@ Hack your way through Santa's x86 Workshop and uncover the `five keys of Christm
 This reverse engineering project is broken down into five challenges within a single challenge binary (`SantasWorkshop.exe`). Each challenge is designed to teach a set of different skills and concepts related to binary reverse engineering.
 
 # YouTube
-We will be posting a version of this workshop on YouTube within the next week. Watch this secton of the README for a link to the playlist.
+Check out the [CO/DE YouTube channel](https://www.youtube.com/playlist?list=PLCJoIC7hiEqbvS5D0hnWL9JuiQQTyx-CW) for a series of videos that cover a version of this material.
 
 # Platform
 This project is designed for Windows. Much of the code will translate to Linux and MacOS, but there is use of Windows-specific APIs and structures that will prevent it from working if build for non-Windows platforms.
